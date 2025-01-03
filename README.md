@@ -1,8 +1,8 @@
-# @batpb/genart template
+# genuary 2025
 
-Copyright (C) 2023-2024 brittni and the polar bear LLC.
+Copyright (C) 2025 brittni and the polar bear LLC.
 
-A template for new generative art projects using the [@batpb/genart](https://www.npmjs.com/package/@batpb/genart) library.
+Projects built for [Genuary 2025](https://genuary.art/).
 
 ----
 
@@ -12,35 +12,35 @@ A template for new generative art projects using the [@batpb/genart](https://www
 
 ## actions
 
-[![CodeQL](https://github.com/brittni-and-the-polar-bear/genart-template/actions/workflows/codeql.yml/badge.svg)](https://github.com/brittni-and-the-polar-bear/genart-template/actions/workflows/codeql.yml)
-[![Node.js Build](https://github.com/brittni-and-the-polar-bear/genart-template/actions/workflows/node-js.yml/badge.svg)](https://github.com/brittni-and-the-polar-bear/genart-template/actions/workflows/node-js.yml)
+[![CodeQL](https://github.com/azurepolarbear/genuary-2025/actions/workflows/codeql.yml/badge.svg)](https://github.com/azurepolarbear/genuary-2025/actions/workflows/codeql.yml)
+[![Node.js Build](https://github.com/azurepolarbear/genuary-2025/actions/workflows/node-js.yml/badge.svg)](https://github.com/azurepolarbear/genuary-2025/actions/workflows/node-js.yml)
 
 ----
 
 ## project releases
 
-![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/brittni-and-the-polar-bear/genart-template)
-![GitHub License](https://img.shields.io/github/license/brittni-and-the-polar-bear/genart-template)
+![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/azurepolarbear/genuary-2025)
+![GitHub License](https://img.shields.io/github/license/azurepolarbear/genuary-2025)
 
 ----
 
 ## github
 
-![GitHub followers](https://img.shields.io/github/followers/brittni-and-the-polar-bear)
-![GitHub Repo stars](https://img.shields.io/github/stars/brittni-and-the-polar-bear/genart-template)
-![GitHub watchers](https://img.shields.io/github/watchers/brittni-and-the-polar-bear/genart-template)
+![GitHub followers](https://img.shields.io/github/followers/azurepolarbear)
+![GitHub Repo stars](https://img.shields.io/github/stars/azurepolarbear/genuary-2025)
+![GitHub watchers](https://img.shields.io/github/watchers/azurepolarbear/genuary-2025)
 
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/brittni-and-the-polar-bear/genart-template)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/brittni-and-the-polar-bear/genart-template)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/azurepolarbear/genuary-2025)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/azurepolarbear/genuary-2025)
 
-![GitHub issues by-label (bug)](https://img.shields.io/github/issues/brittni-and-the-polar-bear/genart-template/bug?color=red)
-![GitHub issues by-label (security)](https://img.shields.io/github/issues/brittni-and-the-polar-bear/genart-template/security?color=red)
+![GitHub issues by-label (bug)](https://img.shields.io/github/issues/azurepolarbear/genuary-2025/bug?color=red)
+![GitHub issues by-label (security)](https://img.shields.io/github/issues/azurepolarbear/genuary-2025/security?color=red)
 
-![GitHub commits since latest release](https://img.shields.io/github/commits-since/brittni-and-the-polar-bear/genart-template/latest)
+![GitHub commits since latest release](https://img.shields.io/github/commits-since/azurepolarbear/genuary-2025/latest)
 
-![GitHub contributors](https://img.shields.io/github/contributors-anon/brittni-and-the-polar-bear/genart-template)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/azurepolarbear/genuary-2025)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/brittni-and-the-polar-bear/genart-template)
+![GitHub repo size](https://img.shields.io/github/repo-size/azurepolarbear/genuary-2025)
 
 ----
 
